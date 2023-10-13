@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @PiotrKokot
-- 👀 I’m interested in computer programming
-- 🌱 I’m currently learning node.js and mongo db
-- 💞️ I’m looking to collaborate on web page programing
-- 📫 How to reach me ...
+- 👀 I’m interested in WEB programming
+- 💞️ I've been programming in pure PHP and JS for many years. Currently, I am fascinated by the possibilities of JS frameworks like Vue.JS
+- 📫 piotr.helpdesk@gmail.com
 
 <!---
 PiotrKokot/PiotrKokot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
